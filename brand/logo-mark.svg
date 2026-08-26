@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="OpenParity mark">
+  <title>OpenParity</title>
+  <g fill="none" stroke-linecap="round">
+    <!-- Two equal arcs, open at opposite points -->
+    <g stroke="#0E1116" stroke-width="7">
+      <path d="M 42.143 10.249 A 24 24 0 0 0 10.249 42.143"/>
+      <path d="M 21.857 53.751 A 24 24 0 0 0 53.751 21.857"/>
+    </g>
+    <!-- Two equal bars: parity -->
+    <g stroke="#D9784A" stroke-width="7">
+      <path d="M 22 25 H 42"/>
+      <path d="M 22 39 H 42"/>
+    </g>
+  </g>
+</svg>
