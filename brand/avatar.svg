@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="OpenParity">
+  <title>OpenParity</title>
+  <rect width="512" height="512" fill="#0E1116"/>
+  <g transform="translate(96,96) scale(5)" fill="none" stroke-linecap="round">
+    <g stroke="#F7F4EE" stroke-width="7">
+      <path d="M 42.143 10.249 A 24 24 0 0 0 10.249 42.143"/>
+      <path d="M 21.857 53.751 A 24 24 0 0 0 53.751 21.857"/>
+    </g>
+    <g stroke="#D9784A" stroke-width="7">
+      <path d="M 22 25 H 42"/>
+      <path d="M 22 39 H 42"/>
+    </g>
+  </g>
+</svg>
