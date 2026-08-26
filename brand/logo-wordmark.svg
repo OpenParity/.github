@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 268 64" width="268" height="64" role="img" aria-label="OpenParity">
+  <title>OpenParity</title>
+  <g fill="none" stroke-linecap="round">
+    <g stroke="#0E1116" stroke-width="7">
+      <path d="M 42.143 10.249 A 24 24 0 0 0 10.249 42.143"/>
+      <path d="M 21.857 53.751 A 24 24 0 0 0 53.751 21.857"/>
+    </g>
+    <g stroke="#D9784A" stroke-width="7">
+      <path d="M 22 25 H 42"/>
+      <path d="M 22 39 H 42"/>
+    </g>
+  </g>
+  <text x="82" y="43" font-family="'Inter Tight', Inter, 'SF Pro Display', -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" fill="#0E1116" font-size="31" font-weight="600" letter-spacing="-0.8">
+    OpenParity
+  </text>
+</svg>
